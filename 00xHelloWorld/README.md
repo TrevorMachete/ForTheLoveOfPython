@@ -13,4 +13,4 @@ It prints the string *Hello World* to the console.
 To run the script (assuming at that point you would be having the file locally),
 open the directory of the file in the console and then run the command ./hello.py
 
-Just like that, voila!
+Just like that, voila! :wink:
