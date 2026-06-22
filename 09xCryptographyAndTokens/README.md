@@ -18,4 +18,4 @@ Or simpley just clone the repo and run:
 ## Script list
 
 1. jtok.py
-This script creates a JWT token
+This module creates a JWT token
