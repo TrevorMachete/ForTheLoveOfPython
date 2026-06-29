@@ -17,6 +17,6 @@ In this repo you will find the following files:
 
  To run all or any of the scripts, clone the repo to you local environment,
  cd into the parent directory of the modules in your console and run command:
- `python3 [module_name.py]`
+ `python3 [module_name].py`
 
  Remember that the square brackets are not part of the command syntax.
