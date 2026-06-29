@@ -17,8 +17,19 @@ logging.warning('And example of a warning log message.')
 logging.error('This one is an example of an error event message.')
 logging.critical('And finally, an example of a critical event message in log')
 
-''' This script configures some basic logging
-
-We import logging, thenconfigure our logging to output to a file, and set it
-
 '''
+This script configures basic logging for the application.
+
+- Imports the `logging` module.
+- Configures logging to write to 'applog.log'.
+- Sets the logging level to DEBUG (captures DEBUG and higher).
+- Defines a custom format that includes:
+    * Timestamp ({asctime})
+    * Log level ({levelname})
+    * File path and line number ({pathname}, {lineno})
+    * The log message itself ({message})
+
+The script then demonstrates logging at all severity levels:
+DEBUG, INFO, WARNING, ERROR, and CRITICAL.
+'''
+
