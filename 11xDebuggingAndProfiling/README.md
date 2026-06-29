@@ -13,6 +13,9 @@ In this repo you will find the following files:
  - log_to_file.py  
  This script introduces us to configuring logging to output to a file.
 
+ - basic_prof.py  
+ This script introduces us to profiling
+
  ### Instructions
 
  To run all or any of the scripts, clone the repo to you local environment,
