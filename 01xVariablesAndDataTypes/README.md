@@ -18,3 +18,11 @@ Use a set to remove duplicates from a list of numbers.
 
 - vdt.py  
 Creates variables for name, age, and height, then print them in a formatted sentence.
+
+ ### Instructions
+
+ To run all or any of the scripts, clone the repo to you local environment,
+ cd into the parent directory of the modules in your console and run command:
+ `python3 [module_name].py`
+
+ Remember that the square brackets are not part of the command syntax.
